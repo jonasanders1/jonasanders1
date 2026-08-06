@@ -33,8 +33,15 @@ I like implementing things from first principles to really understand them:
 
 ## 📊 GitHub stats
 
-![Jonas's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jonasanders1&show_icons=true&theme=default&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=jonasanders1&hide_border=true)
 ![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jonasanders1&layout=compact&hide_border=true)
+
+![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=jonasanders1&hide_border=true&area=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonasanders1/jonasanders1/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/jonasanders1/jonasanders1/output/github-snake.svg">
+</picture>
 
 ## 📫 Get in touch
 
