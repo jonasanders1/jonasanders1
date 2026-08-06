@@ -1,12 +1,13 @@
 # Hi there, I'm Jonas 👋
 
-Frontend developer and Computer Science student at [UiT The Arctic University of Norway](https://uit.no/) 🇳🇴
+Software engineer at [Skriptr](https://skriptr.ai/), with a Master's degree in Computer Science from [UiT The Arctic University of Norway](https://uit.no/) 🇳🇴
 
-I build things for the web with TypeScript and React, and I'm deeply interested in machine learning — not just using it, but understanding it from the ground up. When I'm not studying, I'm usually building games, chatbots, or neural networks from scratch.
+I work across the stack — from TypeScript/React frontends to backends and machine learning. I'm deeply interested in ML, not just using it, but understanding it from the ground up. In my spare time I'm usually building games, chatbots, or neural networks from scratch.
 
 ## 🔭 What I'm working on
 
-- 🎮 **[Sigurd Startup](https://github.com/jonasanders1/sigurd-startup-game)** — a browser game built with TypeScript
+- 💼 **[Skriptr](https://skriptr.ai/)** — where I work as a software engineer
+- 🎮 **[Sigurd Startup](https://github.com/jonasanders1/sigurd-startup-game)** — a browser game built with TypeScript ([play it here!](https://sigurdstartup.jonasanders1.com/))
 - 🤖 **[nutrientNet](https://github.com/jonasanders1/nutrientNet)** — a custom RAG chatbot, with a focus on how to evaluate RAG performance
 - 🌐 **[jonasanders1.com](https://www.jonasanders1.com/)** — my portfolio site
 
