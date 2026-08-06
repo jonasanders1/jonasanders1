@@ -8,8 +8,6 @@ I work across the stack — from TypeScript/React frontends to backends and mach
 
 - 💼 **[Skriptr](https://skriptr.ai/)** — where I work as a software engineer
 - 🎮 **[Sigurd Startup](https://github.com/jonasanders1/sigurd-startup-game)** — a browser game built with TypeScript ([play it here!](https://sigurdstartup.jonasanders1.com/))
-- 🤖 **[nutrientNet](https://github.com/jonasanders1/nutrientNet)** — a custom RAG chatbot, with a focus on how to evaluate RAG performance
-- 🌐 **[jonasanders1.com](https://www.jonasanders1.com/)** — my portfolio site
 
 ## 🌱 Learning by building
 
