@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Jonas 👋
 
-<!--
-**jonasanders1/jonasanders1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer and Computer Science student at [UiT The Arctic University of Norway](https://uit.no/) 🇳🇴
 
-Here are some ideas to get you started:
+I build things for the web with TypeScript and React, and I'm deeply interested in machine learning — not just using it, but understanding it from the ground up. When I'm not studying, I'm usually building games, chatbots, or neural networks from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm working on
+
+- 🎮 **[Sigurd Startup](https://github.com/jonasanders1/sigurd-startup-game)** — a browser game built with TypeScript
+- 🤖 **[nutrientNet](https://github.com/jonasanders1/nutrientNet)** — a custom RAG chatbot, with a focus on how to evaluate RAG performance
+- 🌐 **[jonasanders1.com](https://www.jonasanders1.com/)** — my portfolio site
+
+## 🌱 Learning by building
+
+I like implementing things from first principles to really understand them:
+
+- 🧠 [Neural network from scratch](https://github.com/jonasanders1/NN_from_scratch) — no frameworks, just Python and math
+- ✍️ [Bigram LLM from scratch](https://github.com/jonasanders1/Bigram-LLM-from-scratch) — a tiny language model, built step by step
+- 🖼️ [CNN drawing classifier](https://github.com/jonasanders1/CNN-Drawing-Classification) — recognizing hand-drawn sketches
+- 🔁 [RNN experiments](https://github.com/jonasanders1/RNN) — sequence models in notebooks
+
+## 🛠️ Tech I use
+
+**Frontend:** TypeScript, React, HTML/CSS
+**Backend & ML:** Python, Node.js, PyTorch, NumPy
+**Other:** Git, AWS, Jupyter
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
+## 📊 GitHub stats
+
+![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasanders1&show_icons=true&theme=default&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasanders1&layout=compact&hide_border=true)
+
+## 📫 Get in touch
+
+- 🌐 Website: [jonasanders1.com](https://www.jonasanders1.com/)
+- 💼 GitHub: you're already here 😄
