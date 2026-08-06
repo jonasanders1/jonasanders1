@@ -34,8 +34,8 @@ I like implementing things from first principles to really understand them:
 
 ## 📊 GitHub stats
 
-![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasanders1&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasanders1&layout=compact&hide_border=true)
+![Jonas's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jonasanders1&show_icons=true&theme=default&hide_border=true)
+![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jonasanders1&layout=compact&hide_border=true)
 
 ## 📫 Get in touch
 
